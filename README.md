@@ -6,4 +6,4 @@ This application generates JingStamps.
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the CryptoRight application.
+Click [here](frontend/index.html) to launch the JingStamp generator.
